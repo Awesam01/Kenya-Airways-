@@ -1,0 +1,71 @@
+
+.content{
+    
+    background-image: url(./images/sky.png);
+    background-position: bottom;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 70vh;
+    width: 50vw;
+}
+.aeroplane{
+    position:absolute;
+    left:12px;
+    top: 172px;
+}
+.links {
+    list-style-type: none;
+    display: flex;
+    float:right;
+    padding: 0 20;
+    
+  }
+  .links li{
+      padding:0px 40px;
+  }
+  a{
+    text-decoration: none !important;
+}
+.words{
+    padding:20px 10px;
+}
+.title{
+    color: red;
+}
+.btn{
+    background-color: red;
+    color: white;
+    cursor:pointer;
+   border-radius: 4px;
+   padding:18px 36px;
+}
+.subtitle{
+    color: red;
+}
+.btn2{
+    background-color: red;
+    color: white;
+}
+.text{
+    background-color: khaki;
+    color: black;
+}
+.sub-title{
+    color: red;
+}
+.sub-title2{
+    color: red;
+}
+.btn2{
+    background-color: red;
+    color: white;
+    cursor:pointer;
+    display: block;
+    margin: 8px 0;
+}
+.photo{
+    height: 30vh;
+    width: 20vw;
+}
+  
+  
